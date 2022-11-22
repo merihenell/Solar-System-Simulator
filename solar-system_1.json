@@ -1,0 +1,87 @@
+[
+{
+    "name": "Sun",
+    "mass": 1.99e30,
+    "radius": 6.96e8,
+    "initialPosition":
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+    "initialVelocity":
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+},
+{
+    "name": "Mercury",
+    "mass": 3.29e23,
+    "radius": 2.44e6,
+    "initialPosition":
+        {
+            "x": 5.8e10,
+            "y": 0,
+            "z": 0
+        },
+    "initialVelocity":
+        {
+            "x": 0,
+            "y": 5e4,
+            "z": 0
+        }
+},
+{
+    "name": "Venus",
+    "mass": 4.87e24,
+    "radius": 6.05e6,
+    "initialPosition":
+        {
+            "x": 1.08e11,
+            "y": 0,
+            "z": 0
+        },
+    "initialVelocity":
+        {
+            "x": 0,
+            "y": 3.5e4,
+            "z": 0
+        }
+},
+{
+    "name": "Earth",
+    "mass": 5.97e24,
+    "radius": 6.37e6,
+    "initialPosition":
+        {
+            "x": 1.49e11,
+            "y": 0,
+            "z": 0
+        },
+    "initialVelocity":
+        {
+            "x": 0,
+            "y": 2.98e4,
+            "z": 0
+        }
+},
+{
+    "name": "Mars",
+    "mass": 6.39e23,
+    "radius": 3.39e6,
+    "initialPosition":
+        {
+            "x": 2.28e11,
+            "y": 0,
+            "z": 0
+        },
+    "initialVelocity":
+        {
+            "x": 0,
+            "y": 2.41e4,
+            "z": 0
+        }
+}
+]

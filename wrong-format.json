@@ -1,0 +1,25 @@
+[
+{
+    "name": "Sun",
+    "mass": 1.99e30,
+    "radius": 6.96e8,
+    "initialPosition": 0
+},
+{
+    "name": "Earth",
+    "mass": 5.97e24,
+    "radius": 6.37e6,
+    "initialPosition":
+        {
+            "x": 1.49e11,
+            "y": 0,
+            "z": 0
+        },
+    "initialVelocity":
+        {
+            "x": 0,
+            "y": 2.98e4,
+            "z": 0
+        }
+}
+]
